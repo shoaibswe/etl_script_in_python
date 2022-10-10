@@ -1,0 +1,12 @@
+1. install a lib pyodbc if not installed>
+pip3 install pyodbc
+
+
+2. edit finfig > add (before run)
+D:\ideas\ETL_Example\extract.py
+
+to conn with db
+3. pip3 install sqlalchemy
+
+4. install ini
+5. pip3 install psycopg2-binary
